@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run web_app.py
+web: streamlit run web_app.py --server.port=$PORT --server.enableWebsocketCompression=false
