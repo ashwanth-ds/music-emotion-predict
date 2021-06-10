@@ -1,1 +1,4 @@
-libsndfile1
+python-dev
+python-numpy
+python-setuptools
+libsndfile-dev
